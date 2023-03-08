@@ -1,0 +1,7 @@
+P001:Cake:pack:2:200
+P002:Candy:pack:100:15
+V003:Refrigerator:item:15000:8:10
+V004:Bed:item:5000:8:12
+V005:Cake:bag:15:100:150
+V006:Salt:bag:5:1000:100
+P003:Sugar:pack:10:15

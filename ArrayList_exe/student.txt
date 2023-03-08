@@ -1,0 +1,3 @@
+0121,Nguyen Thai Son,19,16 Tran Hung Dao,8.2
+0044,Nguyen Hoang Anh Tuan,19,06 Can Vuong,7.2
+0047,Huynh Gia Khoi,19,05 Bui Duc Son,8.5
